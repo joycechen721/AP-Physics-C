@@ -20,10 +20,10 @@
 
 ## Magnetic Fields
 
-* [Projects](magnetic-fields/projects.md)
-* [Members](magnetic-fields/members.md)
-* [Task Lists](magnetic-fields/task-lists.md)
-* [Tasks](magnetic-fields/tasks.md)
+* [Projects](fundamentals/projects.md)
+* [Members](fundamentals/members.md)
+* [Task Lists](fundamentals/task-lists.md)
+* [Tasks](fundamentals/tasks.md)
 
 ## Extras
 

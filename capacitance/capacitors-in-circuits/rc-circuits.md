@@ -49,7 +49,7 @@ we set t = 0 back again, and we expect charge, current, and voltage to decrease 
 
 ![](<../../.gitbook/assets/image (15).png>)
 
-* as e^-t/RC approaches 0, so does charge
+* as e^-t/RC approaches 0, so does charge.
 
 ![](<../../.gitbook/assets/image (9).png>)
 
