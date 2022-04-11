@@ -13,7 +13,7 @@ description: >-
 
 Note: The **capacitance (C)** _depends_ _only on the <mark style="color:red;">GEOMETRY</mark> of the capacitor plates_, NOT on the voltage difference or their charge.
 
-![equation for calculating capacitance of parallel-plate capacitors. only dependent on plate geometry.](../.gitbook/assets/approximation-of-capacitance-formula.webp)
+![equation for calculating capacitance of parallel-plate capacitors. only dependent on plate geometry.](../../.gitbook/assets/approximation-of-capacitance-formula.webp)
 
 #### Clarifications:
 
@@ -30,6 +30,6 @@ Here are some ways:
 * put plates in a **circuit w/ a battery**! circuits create current (aka charge/time) that slowly charges up the plates until they reach a V diff equivalent to the battery
 * ha. that's it, i guess?
 
-![visual diagram of a capacitor ;D](<../.gitbook/assets/image (3) (1).png>)
+![visual diagram of a capacitor ;D](<../../.gitbook/assets/image (3) (1).png>)
 
 Initially, when the plates are **uncharged**, **ΔV between them is 0**!! As they slowly get charged, a **ΔV is generated** (remember equation q = CV, **as q increases so does V**). When the +plate reaches same potential as +battery terminal, and -plate reaches same potential as -battery terminal, there is no electric field left between them. This is when the capacitor is _**fully charged.**_

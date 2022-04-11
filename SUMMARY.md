@@ -4,11 +4,12 @@
 
 ## Capacitance
 
-* [Capacitors](capacitance/capacitors.md)
+* [Capacitors](capacitance/capacitors/README.md)
+  * [Electric Potential Energy](capacitance/capacitors/electric-potential-energy.md)
+  * [Dielectrics](capacitance/capacitors/dielectrics.md)
 * [Capacitors in Circuits](capacitance/capacitors-in-circuits/README.md)
   * [Series & Parallel](capacitance/capacitors-in-circuits/series-and-parallel.md)
   * [RC Circuits](capacitance/capacitors-in-circuits/rc-circuits.md)
-* [Dielectrics](capacitance/dielectrics.md)
 
 ## Circuits
 
