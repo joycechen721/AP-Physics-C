@@ -18,12 +18,12 @@
 * [For Designers](circuits/for-designers/README.md)
   * [Figma Integration](circuits/for-designers/figma-integration.md)
 
-## Fundamentals
+## Magnetic Fields
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Projects](magnetic-fields/projects.md)
+* [Members](magnetic-fields/members.md)
+* [Task Lists](magnetic-fields/task-lists.md)
+* [Tasks](magnetic-fields/tasks.md)
 
 ## Extras
 
