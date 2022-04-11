@@ -5,9 +5,9 @@
 ## Capacitance
 
 * [Capacitors](capacitance/capacitors.md)
-* [Capacitors in Circuit](capacitance/capacitors-in-circuit/README.md)
-  * [Series & Parallel](capacitance/capacitors-in-circuit/series-and-parallel.md)
-  * [RC Circuits](capacitance/capacitors-in-circuit/rc-circuits.md)
+* [Capacitors in Circuits](capacitance/capacitors-in-circuits/README.md)
+  * [Series & Parallel](capacitance/capacitors-in-circuits/series-and-parallel.md)
+  * [RC Circuits](capacitance/capacitors-in-circuits/rc-circuits.md)
 * [Dielectrics](capacitance/dielectrics.md)
 
 ## Circuits
