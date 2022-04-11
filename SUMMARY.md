@@ -12,7 +12,7 @@
 
 ## Circuits
 
-* [RC Circuits](circuits/rc-circuits.md)
+* [EMF & Terminal Voltage](circuits/emf-and-terminal-voltage.md)
 * [For Support](circuits/for-support/README.md)
   * [Intercom Integration](circuits/for-support/intercom-integration.md)
 * [For Designers](circuits/for-designers/README.md)
