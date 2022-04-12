@@ -4,7 +4,7 @@ Oftentimes, capacitors and resistors are found together in "RC" (resistor + capa
 
 ![RC circuit diagram. when switch is closed to "a," capacitor starts CHARGING through the resistor. when switch is closed to "b," capacitor starts DISCHARGING.](<../../.gitbook/assets/image (9) (1).png>)
 
-Based off this, we can easily write the equation ![](<../../.gitbook/assets/image (10).png>)However, reader beware!! Current and charge vary in the circuit, so we can't _literally_ use this equation.&#x20;
+Based off this, we can easily write the equation ![](<../../.gitbook/assets/image (10) (1).png>)However, reader beware!! Current and charge vary in the circuit, so we can't _literally_ use this equation.&#x20;
 
 ## Charging a Capacitor&#x20;
 
@@ -14,7 +14,7 @@ As we know, capacitors **start off with 0 charge and 0 voltage** **across them**
 
 Charge on the capacitors increases within time, whereas current decreases over time until eventually no current passes through & the voltage across = emf of battery. Note: since q is proportional to V, **the graph of **_**V vs. Time**_** would look like **_**q vs. Time**_. It's worth observing that the graph for current is undergoing _exponential decay._
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 * **ε = emf of battery**, or the max difference in potential
 * **Cε** = **Q0**, or the **MAXIMUM charge** that'd be generated in the capacitor
