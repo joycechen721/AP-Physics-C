@@ -5,7 +5,7 @@ description: >-
   capacitor = (+q) + (-q) = 0.
 ---
 
-# Capacitors
+# capacitors & capacitance
 
 ## Capacitance (C)
 
@@ -18,6 +18,8 @@ Note: The **capacitance (C)** _depends_ _only on the <mark style="color:red;">GE
 * **Area** -> area of just 1 plate
 * **ε0** = 8.85 \* 10^-12 C^2/N\*m^2
 * derived from **Gauss's Law**, where V = Ed and q = ε0EA. C = q/V = ε0EA/Ed = ε0A/d.
+
+![electric field lines of a capacitor ](<../../.gitbook/assets/image (1).png>)
 
 ### Charging a Capacitor
 
