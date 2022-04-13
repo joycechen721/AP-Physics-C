@@ -1,8 +1,11 @@
 ---
 description: >-
-  This little place will be a compilation of my nonexistent AP Physics C
-  knowledge! Happy studying, habibis.
+  this little place will be a compilation of my nonexistent AP Physics C
+  knowledge! happy studying, habibis :D:D
 ---
 
-# Welcome
+# welcome!
 
+
+
+![me & u all happily studying ap physics :)](.gitbook/assets/776645.jpg)
