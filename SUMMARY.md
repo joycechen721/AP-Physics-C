@@ -2,15 +2,6 @@
 
 * [welcome!](README.md)
 
-## Capacitance
-
-* [capacitors & capacitance](capacitance/capacitors-and-capacitance/README.md)
-  * [potential energy](capacitance/capacitors-and-capacitance/potential-energy.md)
-  * [dielectrics](capacitance/capacitors-and-capacitance/dielectrics.md)
-* [capacitors in circuits](capacitance/capacitors-in-circuits/README.md)
-  * [series & parallel](capacitance/capacitors-in-circuits/series-and-parallel.md)
-  * [rc circuits](capacitance/capacitors-in-circuits/rc-circuits.md)
-
 ## Circuits
 
 * [the 3 pillars](circuits/the-3-pillars/README.md)
@@ -18,6 +9,16 @@
   * [current](circuits/the-3-pillars/current.md)
   * [resistance & resistivity](circuits/the-3-pillars/resistance-and-resistivity.md)
 * [ohm's law](circuits/ohms-law.md)
+
+## Capacitance
+
+* [capacitors](capacitance/capacitors/README.md)
+  * [electric field](capacitance/capacitors/electric-field.md)
+  * [potential energy](capacitance/capacitors/potential-energy.md)
+  * [dielectrics](capacitance/capacitors/dielectrics.md)
+* [capacitors in circuits](capacitance/capacitors-in-circuits/README.md)
+  * [series & parallel](capacitance/capacitors-in-circuits/series-and-parallel.md)
+  * [rc circuits](capacitance/capacitors-in-circuits/rc-circuits.md)
 
 ## Magnetic Fields
 
