@@ -24,6 +24,6 @@ Then, V(battery) = qtotal/Ctotal = q1/C1 = q2/C2 = q3/C3.&#x20;
 
 Or, to put it another way, **V(battery) = V1 = V2 = V3.**
 
-![](<../../.gitbook/assets/image (6) (1) (1).png>)![](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1) (1).png>)![](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
 
 Unlike capacitors in series, capacitors in parallel do NOT have the same charges as the current across each branch of the circuit is different.&#x20;

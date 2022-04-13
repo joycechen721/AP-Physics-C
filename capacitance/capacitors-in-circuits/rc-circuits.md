@@ -25,7 +25,7 @@ Charge on the capacitors increases within time, whereas current decreases over t
 * using i = dq/dt (change in amt of charge over time), we see that the **current across the capacitor approaches 0**, since it's proportional to e^-t/RC
 * but why? because as charge builds up on the capacitor plates, it impedes the current.
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 * very similar to the charge equation --> just dividing it by C using _q = CV_ (see "Capacitors")
 

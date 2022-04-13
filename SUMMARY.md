@@ -2,6 +2,12 @@
 
 * [welcome!](README.md)
 
+## electrostatics
+
+* [electric force](electrostatics/electric-force.md)
+* [electric field](electrostatics/electric-field/README.md)
+  * [gauss's law](electrostatics/electric-field/gausss-law.md)
+
 ## Circuits
 
 * [the 3 pillars](circuits/the-3-pillars/README.md)
@@ -22,10 +28,12 @@
 
 ## Magnetic Fields
 
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [magnetic fields B](magnetic-fields/magnetic-fields-b.md)
+* [magnetic force](magnetic-fields/magnetic-force.md)
+* [B-field due to current](magnetic-fields/b-field-due-to-current.md)
+* [ampere's law](magnetic-fields/amperes-law.md)
+* [magnetic dipoles](magnetic-fields/magnetic-dipoles.md)
 
-## Extras
+## electromagnetism
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [inductance](electromagnetism/inductance.md)
