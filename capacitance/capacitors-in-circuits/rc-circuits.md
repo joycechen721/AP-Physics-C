@@ -4,7 +4,7 @@ Oftentimes, capacitors and resistors are found together in "RC" (resistor + capa
 
 ![RC circuit diagram. when switch is closed to "a," capacitor starts CHARGING through the resistor. when switch is closed to "b," capacitor starts DISCHARGING.](<../../.gitbook/assets/image (9) (1) (1).png>)
 
-Based off this, we can easily write the equation ![](<../../.gitbook/assets/image (10) (1) (1).png>)However, reader beware!! Since current and charge change in the circuit, we can't _literally_ use this equation.&#x20;
+Based off this, we can easily write the equation ![](<../../.gitbook/assets/image (10) (1) (1) (1).png>)However, reader beware!! Since current and charge change in the circuit, we can't _literally_ use this equation.&#x20;
 
 ## Charging a Capacitor&#x20;
 

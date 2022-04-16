@@ -16,7 +16,7 @@ This means that the voltage across a cylindrical capacitor is:![](<../../.gitboo
 
 And thus, its capacitance can be found with the equation:
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 ### Spherical Capacitors
 
