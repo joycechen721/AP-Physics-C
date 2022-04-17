@@ -8,7 +8,7 @@ In AP Physics, we consider current to be composed of **a steady, net movement of
 
 **i = dq/dt**. Units are **Amperes (A)**, or Coulombs/second (C/s).
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 Conventional current is the flow of _positive_ charge carriers, so the current direction points from the positive to the negative terminal (electrons would flow opposite).&#x20;
 
@@ -32,10 +32,10 @@ The drift speed of electrons is what makes up a current. In a metallic conductor
 
 But why don't the electrons accelerate? Why does current remain the same throughout the conductor? Because the electron's random movements _balance out_ the forward acceleration, making the **drift speed constant**.&#x20;
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 Again, we use positive charge carriers as the default. Electrons move with Vd opposite to the electric field. As speed is just a magnitude, both positive/negative charges would have the same drift speed (though opposite velocities).
 
 ![](<../../.gitbook/assets/image (19).png>)
 
-To calculate drift velocity, we use the equation ![](<../../.gitbook/assets/image (12).png>). (ne) is the _**charge carrier density**_, or amount of charge per unit volume (C/m^3). n would be the # of atoms (or electrons) per unit volume, whereas e is the charge of a single atom (or electron).
+To calculate drift velocity, we use the equation ![](<../../.gitbook/assets/image (12) (1).png>). (ne) is the _**charge carrier density**_, or amount of charge per unit volume (C/m^3). n would be the # of atoms (or electrons) per unit volume, whereas e is the charge of a single atom (or electron).

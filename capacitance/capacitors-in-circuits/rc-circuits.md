@@ -10,7 +10,7 @@ Based off this, we can easily write the equation ![](<../../.gitbook/assets/imag
 
 As we know, capacitors **start off with 0 charge and 0 voltage** **across them** in a circuit. Because of this, they also start off with the maximum amount of current. Therefore, the following graphs would make sense:&#x20;
 
-![](<../../.gitbook/assets/image (14) (1).png>)![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)![](<../../.gitbook/assets/image (12) (1) (1).png>)
 
 Charge on the capacitors increases within time, whereas current decreases over time until eventually no current passes through & the voltage across = emf of battery. Note: since q is proportional to V, **the graph of **_**V vs. Time**_** would look like **_**q vs. Time**_. It's worth observing that the graph for current is undergoing _exponential decay._
 
@@ -25,7 +25,7 @@ Charge on the capacitors increases within time, whereas current decreases over t
 * using i = dq/dt (change in amt of charge over time), we see that the **current across the capacitor approaches 0**, since it's proportional to e^-t/RC
 * but why? because as charge builds up on the capacitor plates, it impedes the current.
 
-![](<../../.gitbook/assets/image (6) (1) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 * very similar to the charge equation --> just dividing it by C using _q = CV_ (see "Capacitors")
 

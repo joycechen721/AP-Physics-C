@@ -15,6 +15,8 @@
   * [current](circuits/the-3-pillars/current.md)
   * [resistance & resistivity](circuits/the-3-pillars/resistance-and-resistivity.md)
 * [ohm's law](circuits/ohms-law.md)
+* [single-loop circuits](circuits/single-loop-circuits.md)
+* [multi-loop circuits](circuits/multi-loop-circuits.md)
 
 ## Capacitance
 
