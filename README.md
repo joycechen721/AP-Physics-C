@@ -8,4 +8,4 @@ description: >-
 
 ![me & u all happily studying ap physics :)](.gitbook/assets/776645.jpg)
 
-Click [here ](https://joyce-chen.gitbook.io/ap-physics-c-e-and-m/)for a better experience!
+Click [here](https://joyce-chen.gitbook.io/ap-physics-c-e-and-m/) for a better experience!
