@@ -7,6 +7,8 @@
 * [electric force](electrostatics/electric-force.md)
 * [electric field](electrostatics/electric-field/README.md)
   * [gauss's law](electrostatics/electric-field/gausss-law.md)
+* [electric potential](electrostatics/electric-potential/README.md)
+  * [electric potential energy](electrostatics/electric-potential/electric-potential-energy.md)
 
 ## Circuits
 
@@ -15,6 +17,7 @@
   * [current](circuits/the-3-pillars/current.md)
   * [resistance & resistivity](circuits/the-3-pillars/resistance-and-resistivity.md)
 * [ohm's law](circuits/ohms-law.md)
+* [power in electric circuits](circuits/power-in-electric-circuits.md)
 * [single-loop circuits](circuits/single-loop-circuits.md)
 * [multi-loop circuits](circuits/multi-loop-circuits.md)
 

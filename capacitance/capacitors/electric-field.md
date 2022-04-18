@@ -20,7 +20,7 @@ And thus, its capacitance can be found with the equation:
 
 ### Spherical Capacitors
 
-Same thing as above: with gauss's law we find that the e-field varies with the square of distance ![](<../../.gitbook/assets/image (8) (1) (1).png>)
+Same thing as above: with gauss's law we find that the e-field varies with the square of distance ![](<../../.gitbook/assets/image (8) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/download (1).jpg>)
 

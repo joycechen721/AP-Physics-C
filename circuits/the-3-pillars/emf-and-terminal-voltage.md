@@ -9,7 +9,7 @@
 
 ![](<../../.gitbook/assets/image (11).png>), definition of emf ε
 
-![](<../../.gitbook/assets/image (7).png>), current in circuit assuming ideal battery with emf ε
+![](<../../.gitbook/assets/image (7) (1).png>), current in circuit assuming ideal battery with emf ε
 
 ![stealing from textbook...again.](<../../.gitbook/assets/image (16).png>)
 
@@ -21,6 +21,6 @@ If no internal resistance is specified, assume that the battery is ideal since i
 
 ![a real battery w/ internal resistance](<../../.gitbook/assets/image (12).png>)
 
-![](<../../.gitbook/assets/image (6).png>) where _ir_ **** is the voltage drop within the battery. Therefore, we find that the total current in the circuit![](<../../.gitbook/assets/image (8).png>)This corroborates series resistors addition.&#x20;
+![](<../../.gitbook/assets/image (6).png>) where _ir_ **** is the voltage drop within the battery. Therefore, we find that the total current in the circuit![](<../../.gitbook/assets/image (8) (1).png>)This corroborates series resistors addition.&#x20;
 
 **Terminal voltage** is the actual voltage difference of the battery when you account for internal resistance. When no current is running through the battery, terminal voltage = emf!
