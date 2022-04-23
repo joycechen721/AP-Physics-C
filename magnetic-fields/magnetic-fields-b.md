@@ -22,7 +22,7 @@ Similar to electric field lines,
 
 Because magnetism requires a 3D perspective, we introduce a physics convention for vectors pointing into and out of the page (or screen).&#x20;
 
-<img src="../.gitbook/assets/image (20).png" alt="" data-size="original">![](<../.gitbook/assets/image (2).png>)
+<img src="../.gitbook/assets/image (22).png" alt="" data-size="original">![](<../.gitbook/assets/image (2).png>)
 
 
 

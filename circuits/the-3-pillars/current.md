@@ -24,7 +24,7 @@ The current density is the amount of current passing through a cross-sectional a
 
 In a wire, the area vector and J would all point in the _same direction_ - however the current is flowing! Thus, if the current is uniform and parallel to the area vector, we can simplify the equation into i = JA or **J = i/A**.
 
-![closer streamlines = greater current density, since A is smaller.](<../../.gitbook/assets/image (17).png>)
+![closer streamlines = greater current density, since A is smaller.](<../../.gitbook/assets/image (17) (1).png>)
 
 ### Drift Speed Vd
 
@@ -32,7 +32,7 @@ The drift speed of electrons is what makes up a current. In a metallic conductor
 
 But why don't the electrons accelerate? Why does current remain the same throughout the conductor? Because the electron's random movements _balance out_ the forward acceleration, making the **drift speed constant**.&#x20;
 
-![](<../../.gitbook/assets/image (16) (1).png>)
+![](<../../.gitbook/assets/image (16) (1) (1).png>)
 
 Again, we use positive charge carriers as the default. Electrons move with Vd opposite to the electric field. As speed is just a magnitude, both positive/negative charges would have the same drift speed (though opposite velocities).
 

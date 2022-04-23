@@ -8,9 +8,9 @@ Using Gauss's Law, the electric field generated across a _**parallel plate** cap
 
 ### Cylindrical Capacitors
 
-Here, the **electric field generated is NOT uniform**. Using Gauss's Law, we find that ![](<../../.gitbook/assets/image (15).png>)As distance from the axis increases the magnitude of the e-field decreases (makes sense, as gaussian surface is a circle).&#x20;
+Here, the **electric field generated is NOT uniform**. Using Gauss's Law, we find that ![](<../../.gitbook/assets/image (15) (1).png>)As distance from the axis increases the magnitude of the e-field decreases (makes sense, as gaussian surface is a circle).&#x20;
 
-![](<../../.gitbook/assets/image (17) (1).png>)                 <img src="../../.gitbook/assets/CNX_UPhysics_25_01_cylind.jpg" alt="" data-size="original">
+![](<../../.gitbook/assets/image (17) (1) (1).png>)                 <img src="../../.gitbook/assets/CNX_UPhysics_25_01_cylind.jpg" alt="" data-size="original">
 
 This means that the voltage across a cylindrical capacitor is:![](<../../.gitbook/assets/image (9) (1).png>)
 

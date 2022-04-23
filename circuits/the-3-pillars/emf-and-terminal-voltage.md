@@ -9,9 +9,9 @@
 
 ![](<../../.gitbook/assets/image (11) (1).png>), definition of emf ε
 
-![](<../../.gitbook/assets/image (7) (1).png>), current in circuit assuming ideal battery with emf ε
+![](<../../.gitbook/assets/image (7) (1) (1).png>), current in circuit assuming ideal battery with emf ε
 
-![stealing from textbook...again.](<../../.gitbook/assets/image (16).png>)
+![stealing from textbook...again.](<../../.gitbook/assets/image (16) (1).png>)
 
 ### Internal Resistance
 
