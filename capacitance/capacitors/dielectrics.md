@@ -12,7 +12,7 @@ When a dielectric is placed between the capacitor plates, the **capacitance incr
 
 Dielectric constants are usually inherent to the insulating material. Below are some common dielectrics and their κ values:
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1).png>)
 
 ### dielectrics & e-field
 

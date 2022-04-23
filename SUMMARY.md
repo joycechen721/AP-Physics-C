@@ -16,8 +16,8 @@
   * [emf & terminal voltage](circuits/the-3-pillars/emf-and-terminal-voltage.md)
   * [current](circuits/the-3-pillars/current.md)
   * [resistance & resistivity](circuits/the-3-pillars/resistance-and-resistivity.md)
-* [ohm's law](circuits/ohms-law.md)
-* [power in electric circuits](circuits/power-in-electric-circuits.md)
+* [ohm's law](circuits/ohms-law/README.md)
+  * [power in electric circuits](circuits/ohms-law/power-in-electric-circuits.md)
 * [single-loop circuits](circuits/single-loop-circuits.md)
 * [multi-loop circuits](circuits/multi-loop-circuits.md)
 
@@ -34,8 +34,10 @@
 ## Magnetic Fields
 
 * [magnetic fields B](magnetic-fields/magnetic-fields-b.md)
-* [magnetic force](magnetic-fields/magnetic-force.md)
-* [B-field due to current](magnetic-fields/b-field-due-to-current.md)
+* [magnetic force](magnetic-fields/magnetic-force/README.md)
+  * [magnetic force on a moving charge](magnetic-fields/magnetic-force/magnetic-force-on-a-moving-charge.md)
+  * [magnetic force on a current-carrying wire](magnetic-fields/magnetic-force/magnetic-force-on-a-current-carrying-wire.md)
+  * [magnetic force/fields due to current-carrying wire](magnetic-fields/magnetic-force/magnetic-force-fields-due-to-current-carrying-wire.md)
 * [ampere's law](magnetic-fields/amperes-law.md)
 * [magnetic dipoles](magnetic-fields/magnetic-dipoles.md)
 
