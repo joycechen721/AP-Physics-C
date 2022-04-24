@@ -1,2 +1,0 @@
-# magnetic dipoles
-

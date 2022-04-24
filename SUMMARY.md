@@ -39,7 +39,11 @@
   * [magnetic force on a current-carrying wire](magnetic-fields/magnetic-force/magnetic-force-on-a-current-carrying-wire.md)
   * [magnetic force/fields due to current-carrying wire](magnetic-fields/b-field-due-to-current.md)
 * [ampere's law](magnetic-fields/amperes-law.md)
-* [magnetic dipoles](magnetic-fields/magnetic-dipoles.md)
+* [problem sets](magnetic-fields/problem-sets.md)
+
+## momentum
+
+* [momentum](momentum/momentum.md)
 
 ## electromagnetism
 

@@ -18,11 +18,11 @@ Similar to electric field lines,
 1. direction of B field is tangent to field line at any point
 2. number of lines per unit area ∝ B field strength&#x20;
 
-![](<../.gitbook/assets/image (12).png>)             ![](../.gitbook/assets/magneticFieldLines1.gif)
+![](<../.gitbook/assets/image (12) (1).png>)             ![](../.gitbook/assets/magneticFieldLines1.gif)
 
 Because magnetism requires a 3D perspective, we introduce a physics convention for vectors pointing into and out of the page (or screen).&#x20;
 
-<img src="../.gitbook/assets/image (23).png" alt="" data-size="original">![](<../.gitbook/assets/image (2).png>)
+<img src="../.gitbook/assets/image (23) (1).png" alt="" data-size="original">![](<../.gitbook/assets/image (2).png>)
 
 
 

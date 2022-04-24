@@ -20,11 +20,11 @@ Current is **scalar**, or they can be added algebraically. Any arrows just indic
 
 The current density is the amount of current passing through a cross-sectional area (A/m^2), and is a vector quantity (J). &#x20;
 
-![current = sum of all current densities across a cross section](<../../.gitbook/assets/image (13) (1).png>)
+![current = sum of all current densities across a cross section](<../../.gitbook/assets/image (13) (1) (1).png>)
 
 In a wire, the area vector and J would all point in the _same direction_ - however the current is flowing! Thus, if the current is uniform and parallel to the area vector, we can simplify the equation into i = JA or **J = i/A**.
 
-![closer streamlines = greater current density, since A is smaller.](<../../.gitbook/assets/image (17) (1).png>)
+![closer streamlines = greater current density, since A is smaller.](<../../.gitbook/assets/image (17) (1) (1).png>)
 
 ### Drift Speed Vd
 
@@ -32,10 +32,10 @@ The drift speed of electrons is what makes up a current. In a metallic conductor
 
 But why don't the electrons accelerate? Why does current remain the same throughout the conductor? Because the electron's random movements _balance out_ the forward acceleration, making the **drift speed constant**.&#x20;
 
-![](<../../.gitbook/assets/image (16) (1) (1).png>)
+![](<../../.gitbook/assets/image (16) (1) (1) (1).png>)
 
 Again, we use positive charge carriers as the default. Electrons move with Vd opposite to the electric field. As speed is just a magnitude, both positive/negative charges would have the same drift speed (though opposite velocities).
 
-![](<../../.gitbook/assets/image (19) (1).png>)
+![](<../../.gitbook/assets/image (19) (1) (1).png>)
 
-To calculate drift velocity, we use the equation ![](<../../.gitbook/assets/image (12) (1) (1).png>). (ne) is the _**charge carrier density**_, or amount of charge per unit volume (C/m^3). n would be the # of atoms (or electrons) per unit volume, whereas e is the charge of a single atom (or electron).
+To calculate drift velocity, we use the equation ![](<../../.gitbook/assets/image (12) (1) (1) (1).png>). (ne) is the _**charge carrier density**_, or amount of charge per unit volume (C/m^3). n would be the # of atoms (or electrons) per unit volume, whereas e is the charge of a single atom (or electron).
