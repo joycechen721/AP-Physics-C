@@ -4,7 +4,7 @@
 
 Using Gauss's Law, the electric field generated across a _**parallel plate** capacitor_ is the **E = Q/(Aε0)**, where Q is the charge of the capacitor and A is the area of surrounding Gaussian surface (usually the area of the capacitor plates, unless otherwise specified in a problem). Here, E is uniform across the capacitor, since its equation does NOT depend on "d."&#x20;
 
-![a constant e-field across parallel plate capacitors](../../.gitbook/assets/download.png)
+![a constant e-field across parallel plate capacitors](<../../.gitbook/assets/download (1).png>)
 
 ### Cylindrical Capacitors
 
@@ -20,10 +20,10 @@ And thus, its capacitance can be found with the equation:
 
 ### Spherical Capacitors
 
-Same thing as above: with gauss's law we find that the e-field varies with the square of distance ![](<../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png>)
+Same thing as above: with gauss's law we find that the e-field varies with the square of distance ![](<../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/download (1).jpg>)
 
 Voltage: ![](<../../.gitbook/assets/image (13) (1) (1) (1).png>)
 
-Capacitance: ![](<../../.gitbook/assets/image (19) (1) (1) (1).png>)
+Capacitance: ![](<../../.gitbook/assets/image (19) (1) (1) (1) (1).png>)

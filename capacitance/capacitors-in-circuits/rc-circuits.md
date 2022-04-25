@@ -59,4 +59,4 @@ we set t = 0 back again, and we expect charge, current, and voltage to decrease 
 
 anddd, that's pretty much it! below are the equations. use Q(t), I(t), V(t) when solving for the charge, current, or voltage after a given amount of time. remember, **q0** is the **maximum amount of charge the capacitor can hold**, and **ε** is the emf of the battery or the **maximum potential difference across the capacitor**.
 
-![all the equations in one table!](<../../.gitbook/assets/image (3).png>)
+![all the equations in one table!](<../../.gitbook/assets/image (3) (1).png>)

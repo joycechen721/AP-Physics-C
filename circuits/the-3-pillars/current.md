@@ -36,6 +36,6 @@ But why don't the electrons accelerate? Why does current remain the same through
 
 Again, we use positive charge carriers as the default. Electrons move with Vd opposite to the electric field. As speed is just a magnitude, both positive/negative charges would have the same drift speed (though opposite velocities).
 
-![](<../../.gitbook/assets/image (19) (1) (1).png>)
+![](<../../.gitbook/assets/image (19) (1) (1) (1).png>)
 
 To calculate drift velocity, we use the equation ![](<../../.gitbook/assets/image (12) (1) (1) (1).png>). (ne) is the _**charge carrier density**_, or amount of charge per unit volume (C/m^3). n would be the # of atoms (or electrons) per unit volume, whereas e is the charge of a single atom (or electron).

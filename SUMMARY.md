@@ -26,7 +26,7 @@
 * [capacitors](capacitance/capacitors/README.md)
   * [electric field](capacitance/capacitors/electric-field.md)
   * [potential energy](capacitance/capacitors/potential-energy.md)
-  * [dielectrics](capacitance/capacitors/dielectrics.md)
+* [dielectrics](capacitance/dielectrics.md)
 * [capacitors in circuits](capacitance/capacitors-in-circuits/README.md)
   * [series & parallel](capacitance/capacitors-in-circuits/series-and-parallel.md)
   * [rc circuits](capacitance/capacitors-in-circuits/rc-circuits.md)
@@ -45,6 +45,7 @@
 ## CM/Impulse Momentum
 
 * [momentum](cm-impulse-momentum/momentum.md)
+* [center of mass](cm-impulse-momentum/center-of-mass.md)
 
 ## electromagnetism
 

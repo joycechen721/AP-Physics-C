@@ -8,11 +8,11 @@ When a dielectric is placed between the capacitor plates, the **capacitance incr
 
 **C = κ\*C(air)**, where C(air) is the capacitance when there's nothing but air separating the plates. In other words, κ = C/C0.
 
-![](<../../.gitbook/assets/download (1).png>)
+![](<../.gitbook/assets/download (1) (1).png>)
 
 Dielectric constants are usually inherent to the insulating material. Below are some common dielectrics and their κ values:
 
-![](<../../.gitbook/assets/image (5) (1) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 ### dielectrics & e-field
 

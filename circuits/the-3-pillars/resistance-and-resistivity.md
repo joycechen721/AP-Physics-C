@@ -6,7 +6,7 @@ All materials including conductors have some electrical resistance, meaning it i
 
 #### Resistors
 
-These are conductors that give a _**specific** _ **resistance**, denoted by the symbol ![](<../../.gitbook/assets/image (8) (1) (1) (1) (1).png>) in a circuit. Below are how to read resistor values.
+These are conductors that give a _**specific** _ **resistance**, denoted by the symbol ![](<../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png>) in a circuit. Below are how to read resistor values.
 
 ![](../../.gitbook/assets/four-band-1.jpg)![](../../.gitbook/assets/Resistance\_Color\_Code\_Chart.jpg)
 
@@ -20,6 +20,6 @@ The resistance is directly proportional to the resistivity (ϼ) and length of th
 
 Below are the resisitvities of some common materials:&#x20;
 
-![](<../../.gitbook/assets/image (20) (1) (1).png>)
+![](<../../.gitbook/assets/image (20) (1) (1) (1).png>)
 
 ###

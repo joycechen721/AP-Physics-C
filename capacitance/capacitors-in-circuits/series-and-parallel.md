@@ -4,7 +4,7 @@
 
 The capacitances of series capacitors add up like resistors in parallel:
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 Below, we see that a series of capacitors of capacitances C1, C2, and C3 can be lumped together to form a _single capacitor of value Ctotal_ (using equation above). A crucial point is that these capacitors **all have identical charge q**, due to a "chain reaction" of charges induced top->bottom.
 
@@ -16,7 +16,7 @@ The voltage across each capacitor, then, would be only different due to its indi
 
 Capacitors in parallel add up like resistors in series: easy and simple, you just ADD!!
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 Again, we can lump the capacitors into a single capacitor of capacitance Ctotal. A crucial point to note is that **capacitors in parallel have the** **same voltage difference**.&#x20;
 
