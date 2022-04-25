@@ -27,6 +27,6 @@ Say there is a ccw A and ccw B. To find the force A exerts on B, find the magnet
 
 In equation format: ![](<../../.gitbook/assets/image (19) (1) (1).png>) or ![](<../../.gitbook/assets/image (23) (1).png>).
 
-![](<../../.gitbook/assets/image (22) (1) (1).png>)
+![](<../../.gitbook/assets/image (22) (1) (1) (1).png>)
 
 In this above picture, B points downwards due to the right-hand rule (if you curl it towards the wire, the tangent of the curl points DOWN). Reversed (b -> a), B would point up on current a, so the force would be towards b. With this in mind, we can conclude that **parallel currents attract**, and **antiparallel currents repel**.

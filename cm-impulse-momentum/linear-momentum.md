@@ -2,7 +2,7 @@
 
 ### One Particle
 
-The linear momentum (p) of an object is its mass (m) \* its velocity (v). ![](<../.gitbook/assets/image (33).png>) If a particle is moving at a high velocity, it has high momentum. If 2 objects are moving at the same speed, the heavier object has a higher momentum.
+The linear momentum (p) of an object is its mass (m) \* its velocity (v). ![](<../.gitbook/assets/image (33) (1).png>) If a particle is moving at a high velocity, it has high momentum. If 2 objects are moving at the same speed, the heavier object has a higher momentum.
 
 Rewriting it using Newton's Second Law (F = ma), F = mv/t = p/t. ![](<../.gitbook/assets/image (20).png>)
 

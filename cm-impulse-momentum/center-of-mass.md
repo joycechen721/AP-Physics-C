@@ -8,7 +8,7 @@ description: >-
 
 Uniform, solid objects have their CoM at...you guessed it, the center. But what about other objects? Below is the center of mass for a system of 2 particles, where x1 and x2 are their distances from the origin.&#x20;
 
-![](<../.gitbook/assets/image (33) (1).png>)    ![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (33) (1) (1).png>)    ![](<../.gitbook/assets/image (21).png>)
 
 Extending this to a system of many, many points on the x-axis, we would have to sum all of their respective CoM's together, to form this very cool equation where M = total mass of all points.
 
