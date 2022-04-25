@@ -44,5 +44,5 @@ In physics, we use the **right-hand rule** for cross products (sin). **Order mat
 
 In magnetism, velocity/current is the _a_ vector, the magnetic field is the _b_ vector, and the force is the _a x b_ vector.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 

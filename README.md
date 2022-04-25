@@ -1,7 +1,7 @@
 ---
 description: >-
   this little place will be a compilation of my nonexistent AP Physics C
-  knowledge! happy studying, habibis :D:D
+  knowledge! happy studying, habibis :D:D - by joyce chen
 ---
 
 # welcome!

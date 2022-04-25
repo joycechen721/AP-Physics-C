@@ -8,7 +8,7 @@ As discussed previously, magnetic fields exert forces on moving charges & curren
 
 When a rectangular loop of wire carrying a current I is placed in a uniform magnetic field B, it experiences torque! Notice how force only acts on the long sides of the rectangular wire below, because the current || B on the short sides (sin0/180 = 0).&#x20;
 
-![](<../../.gitbook/assets/image (17).png>)           ![](<../../.gitbook/assets/image (31) (1).png>)
+![](<../../.gitbook/assets/image (17) (1).png>)           ![](<../../.gitbook/assets/image (31) (1).png>)
 
 The net torque is the sum of the torques acting on the two long sides of the wire: ![](<../../.gitbook/assets/image (25) (1).png>), where a = length of long side & b = length of short side.
 

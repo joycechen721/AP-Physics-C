@@ -14,7 +14,7 @@ Conventional current is the flow of _positive_ charge carriers, so the current d
 
 Current is **scalar**, or they can be added algebraically. Any arrows just indicate the direction of current flow and do NOT signify a vector. In a circuit, current is **conserved** and can be split into different directions:
 
-![i0 = i1 + i2](<../../.gitbook/assets/image (10) (1).png>)
+![i0 = i1 + i2](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 ### Current Density J
 
@@ -24,7 +24,7 @@ The current density is the amount of current passing through a cross-sectional a
 
 In a wire, the area vector and J would all point in the _same direction_ - however the current is flowing! Thus, if the current is uniform and parallel to the area vector, we can simplify the equation into i = JA or **J = i/A**.
 
-![closer streamlines = greater current density, since A is smaller.](<../../.gitbook/assets/image (17) (1) (1).png>)
+![closer streamlines = greater current density, since A is smaller.](<../../.gitbook/assets/image (17) (1) (1) (1).png>)
 
 ### Drift Speed Vd
 
