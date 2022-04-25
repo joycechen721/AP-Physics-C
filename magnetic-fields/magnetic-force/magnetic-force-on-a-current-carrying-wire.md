@@ -2,7 +2,7 @@
 
 As discussed previously, magnetic fields exert forces on moving charges & currents. This force is transmitted to the **wire itself**, since the conduction electrons can't "escape" out of the wire due to the force! Again, the force on a current/wire is a **cross product** of the length of the wire (L) \* current (i) and the magnetic field (B).
 
-![](<../../.gitbook/assets/image (21) (1).png>) ![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (21) (1) (1).png>) ![](<../../.gitbook/assets/image (12).png>)
 
 ### Torque on a Current Loop
 
@@ -16,11 +16,11 @@ If we have multiple loops, the net torque would be the # of loops (N) \* torque 
 
 ### Magnetic Dipole Moment
 
-Because a current-carrying coil placed in a magnetic field experiences torque, it behaves like a bar magnet placed in the magnetic field. Thus, similarly, a current-carrying coil is said to be a **magnetic dipole** (has 2 poles). To account for this, we assign a **magnetic dipole moment** to the coil of magnitude ![](<../../.gitbook/assets/image (9).png>) where **N is the # of loops**, **i is the current** through the coil, and **A is the area of 1 loop**.
+Because a current-carrying coil placed in a magnetic field experiences torque, it behaves like a bar magnet placed in the magnetic field. Thus, similarly, a current-carrying coil is said to be a **magnetic dipole** (has 2 poles). To account for this, we assign a **magnetic dipole moment** to the coil of magnitude ![](<../../.gitbook/assets/image (9) (1).png>) where **N is the # of loops**, **i is the current** through the coil, and **A is the area of 1 loop**.
 
 * Units of µ: Joules per Tesla (J/T)
 * Direction of µ? Use right-hand rule: wrap hand in direction of coil current, and the thumb gives the direction of µ.
-* The torque equation above can be simplified into the cross product of the magnetic dipole moment and the magnetic field the coil is in! ![](<../../.gitbook/assets/image (8) (1).png>)
+* The torque equation above can be simplified into the cross product of the magnetic dipole moment and the magnetic field the coil is in! ![](<../../.gitbook/assets/image (8) (1) (1).png>)
 
 **Energy of Magnetic Dipole** = dot product (cos) of dipole moment & B vector **** ![](<../../.gitbook/assets/image (13).png>)****
 

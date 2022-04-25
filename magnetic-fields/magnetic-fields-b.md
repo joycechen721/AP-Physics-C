@@ -2,7 +2,7 @@
 
 ### Magnets
 
-Magnets are objects with 2 poles, North and South. Like poles repel, unlike poles attract. Wait...isn't this super similar to electric charge? No, one really big difference is that there are no single isolated magnetic poles in existence (monopoles). Therefore, when you cut a bar magnet, it doesn't separate into 1 South and 1 North half; it just creates another magnet with both poles. ![](<../.gitbook/assets/image (11).png>)![](<../.gitbook/assets/image (14).png>)
+Magnets are objects with 2 poles, North and South. Like poles repel, unlike poles attract. Wait...isn't this super similar to electric charge? No, one really big difference is that there are no single isolated magnetic poles in existence (monopoles). Therefore, when you cut a bar magnet, it doesn't separate into 1 South and 1 North half; it just creates another magnet with both poles. ![](<../.gitbook/assets/image (11) (1).png>)![](<../.gitbook/assets/image (14).png>)
 
 **Examples**
 

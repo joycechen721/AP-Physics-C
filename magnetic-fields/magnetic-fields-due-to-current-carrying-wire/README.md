@@ -25,7 +25,7 @@ hmmm, what if we put 2 current-carrying wires (ccw) parallel to each other? sinc
 
 Say there is a ccw A and ccw B. To find the force A exerts on B, find the magnetic field created by A at the position where B is, using equation 0w0. Then, use the F = iLB equation by plugging A's magnetic field to find the force it exerts on B.&#x20;
 
-In equation format: ![](<../../.gitbook/assets/image (19) (1).png>) or ![](<../../.gitbook/assets/image (23) (1).png>).
+In equation format: ![](<../../.gitbook/assets/image (19) (1) (1).png>) or ![](<../../.gitbook/assets/image (23) (1).png>).
 
 ![](<../../.gitbook/assets/image (22) (1).png>)
 

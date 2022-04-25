@@ -12,7 +12,7 @@ Here, the **electric field generated is NOT uniform**. Using Gauss's Law, we fin
 
 ![](<../../.gitbook/assets/image (17) (1) (1) (1).png>)                 <img src="../../.gitbook/assets/CNX_UPhysics_25_01_cylind.jpg" alt="" data-size="original">
 
-This means that the voltage across a cylindrical capacitor is:![](<../../.gitbook/assets/image (9) (1) (1).png>)
+This means that the voltage across a cylindrical capacitor is:![](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
 
 And thus, its capacitance can be found with the equation:
 
@@ -20,10 +20,10 @@ And thus, its capacitance can be found with the equation:
 
 ### Spherical Capacitors
 
-Same thing as above: with gauss's law we find that the e-field varies with the square of distance ![](<../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png>)
+Same thing as above: with gauss's law we find that the e-field varies with the square of distance ![](<../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/download (1).jpg>)
 
 Voltage: ![](<../../.gitbook/assets/image (13) (1) (1) (1).png>)
 
-Capacitance: ![](<../../.gitbook/assets/image (19) (1) (1) (1) (1).png>)
+Capacitance: ![](<../../.gitbook/assets/image (19) (1) (1) (1) (1) (1).png>)

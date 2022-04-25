@@ -2,7 +2,7 @@
 
 Oftentimes, capacitors and resistors are found together in "RC" (resistor + capacitor) circuits that are useful for time-based electronic devices like traffic lights, windshield wipers, camera flashes. This is because variables like **voltage, charge, and current change with time** in RC circuits.
 
-![RC circuit diagram. when switch is closed to "a," capacitor starts CHARGING through the resistor. when switch is closed to "b," capacitor starts DISCHARGING.](<../../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
+![RC circuit diagram. when switch is closed to "a," capacitor starts CHARGING through the resistor. when switch is closed to "b," capacitor starts DISCHARGING.](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png>)
 
 Based off this, we can easily write the equation ![](<../../.gitbook/assets/image (10) (1) (1) (1) (1).png>)However, reader beware!! Since current and charge change in the circuit, we can't _literally_ use this equation.&#x20;
 
@@ -51,7 +51,7 @@ we set t = 0 back again, and we expect charge, current, and voltage to decrease 
 
 * as e^-t/RC approaches 0, so does charge.
 
-![](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
 
 * be mindful of the negative sign, which indicates that the current is now flowing in the opposite direction compared to when the capacitor was charging.
 
@@ -59,4 +59,4 @@ we set t = 0 back again, and we expect charge, current, and voltage to decrease 
 
 anddd, that's pretty much it! below are the equations. use Q(t), I(t), V(t) when solving for the charge, current, or voltage after a given amount of time. remember, **q0** is the **maximum amount of charge the capacitor can hold**, and **ε** is the emf of the battery or the **maximum potential difference across the capacitor**.
 
-![all the equations in one table!](<../../.gitbook/assets/image (3) (1).png>)
+![all the equations in one table!](<../../.gitbook/assets/image (3) (1) (1).png>)
