@@ -22,6 +22,6 @@ Now, ![](<../../.gitbook/assets/image (18).png>) Aside the integration from a --
 
 SO actually, ![](<../../.gitbook/assets/image (7).png>).
 
-The **net current in the Amperian loop is** **N \* I**, so there you have it.&#x20;
+The **net current in the Amperian loop is** **N \* I**, so there you have it (about to jump off a cliff from exhaustion bye).&#x20;
 
 &#x20;
