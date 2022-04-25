@@ -37,13 +37,14 @@
 * [magnetic force](magnetic-fields/magnetic-force.md)
   * [magnetic force on a moving charge](magnetic-fields/magnetic-force/magnetic-force-on-a-moving-charge.md)
   * [magnetic force on a current-carrying wire](magnetic-fields/magnetic-force/magnetic-force-on-a-current-carrying-wire.md)
-  * [magnetic force/fields due to current-carrying wire](magnetic-fields/b-field-due-to-current.md)
-* [ampere's law](magnetic-fields/amperes-law.md)
+* [magnetic fields due to current-carrying wire](magnetic-fields/magnetic-fields-due-to-current-carrying-wire/README.md)
+  * [ampere's law](magnetic-fields/magnetic-fields-due-to-current-carrying-wire/amperes-law.md)
+  * [solenoids](magnetic-fields/magnetic-fields-due-to-current-carrying-wire/solenoids.md)
 * [problem sets](magnetic-fields/problem-sets.md)
 
-## momentum
+## CM/Impulse Momentum
 
-* [momentum](momentum/momentum.md)
+* [momentum](cm-impulse-momentum/momentum.md)
 
 ## electromagnetism
 
