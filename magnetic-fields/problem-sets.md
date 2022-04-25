@@ -16,3 +16,4 @@ In order to get the maximum torque, the dipole moment must be perpendicular (90 
 
 Answer:
 
+(a) F = ma, E = F/q
