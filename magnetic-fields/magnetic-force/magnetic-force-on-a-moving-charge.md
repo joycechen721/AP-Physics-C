@@ -12,7 +12,7 @@ When an electric **charge q** moves with **velocity v** through a **magnetic fie
 * if velocity and magnetic field are parallel, there is 0 magnetic force on the particle
 * because **force and velocity are never parallel**, the particle only **accelerates by direction** (speed remains the same, think centripetal motion).
 
-![proton will eventually follow a circle path!](<../../.gitbook/assets/image (9) (1) (1).png>)
+![proton will eventually follow a circle path!](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
 
 Does the charge (+/-) of the particle matter then?? **YESSS. YESS. YES.**  If the particle is + charged, the force vector points in the direction of v x B. **If the particle is - charged, the force points opposite to the direction of v x B (hack: use left-hand instead of right-hand!).**&#x20;
 
@@ -20,11 +20,11 @@ Does the charge (+/-) of the particle matter then?? **YESSS. YESS. YES.**  If th
 
 If anything moves in a perfect circle, that means a force is acting on it towards the center.&#x20;
 
-The same goes for charged particles moving in a magnetic field: ![](<../../.gitbook/assets/image (20) (1) (1).png>)&#x20;
+The same goes for charged particles moving in a magnetic field: ![](<../../.gitbook/assets/image (20) (1) (1) (1).png>)&#x20;
 
-The radius of the circle it creates is therefore: ![](<../../.gitbook/assets/image (21) (1) (1) (1).png>)
+The radius of the circle it creates is therefore: ![](<../../.gitbook/assets/image (21) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (15).png>)![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (15) (1).png>)![](<../../.gitbook/assets/image (5).png>)
 
 ### Crossed Electric & Magnetic Fields
 

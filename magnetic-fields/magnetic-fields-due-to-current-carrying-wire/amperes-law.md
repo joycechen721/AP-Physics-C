@@ -12,6 +12,6 @@ In most cases, the amperian loop will be circular for easier computation, since 
 
 How do we find the total current?
 
-Curl your **right hand** around the Amperian loop, with fingers pointing in direction of integration. A current through the loop in the direction of your thumb is positive, and a current in the opposite direction is negative. For the figure below, ![](<../../.gitbook/assets/image (21) (1).png>) (ds = d_ℓ)._
+Curl your **right hand** around the Amperian loop, with fingers pointing in direction of integration. A current through the loop in the direction of your thumb is positive, and a current in the opposite direction is negative. For the figure below, ![](<../../.gitbook/assets/image (21) (1) (1).png>) (ds = d_ℓ)._
 
 ![i (enclosed) = i1 - i2](<../../.gitbook/assets/image (32).png>)

@@ -44,8 +44,10 @@
 
 ## CM/Impulse Momentum
 
-* [momentum](cm-impulse-momentum/momentum.md)
 * [center of mass](cm-impulse-momentum/center-of-mass.md)
+* [linear momentum](cm-impulse-momentum/linear-momentum.md)
+* [impulse & collisions](cm-impulse-momentum/impulse-and-collisions.md)
+* [conservation of linear momentum](cm-impulse-momentum/conservation-of-linear-momentum.md)
 * [problem sets](cm-impulse-momentum/problem-sets.md)
 
 ## electromagnetism

@@ -9,13 +9,13 @@ We saw that magnetic forces can affect current-carrying wires. **Newton's Third 
 
 **Magnetic field lines** are circular-shaped (like coils!) with their centers on the wire. Use right-hand rule for the field direction (very veryy similar to finding magnetic dipole moment of a coil of wires).
 
-![](<../../.gitbook/assets/image (26).png>)         ![](<../../.gitbook/assets/image (18) (1).png>)
+![](<../../.gitbook/assets/image (26) (1).png>)         ![](<../../.gitbook/assets/image (18) (1).png>)
 
 ### Biot-Savert Law
 
 The Biot-Savert Law basically gives the magnetic field created by a small segment of current (i\*ds). If we define r as the distance to point P, ds as the length of the section of the current, and i as the current, then the magnetic field created is:
 
-![](<../../.gitbook/assets/image (20) (1).png>)        ![](<../../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (20) (1) (1).png>)        ![](<../../.gitbook/assets/image (28) (1).png>)
 
 If we add all of these dB contributions (integration), we can get the TOTAL magnetic field due to the entire current. This law can be used to deduce equation 0w0 for an infinitely long wire.
 
