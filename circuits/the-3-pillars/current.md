@@ -8,7 +8,7 @@ In AP Physics, we consider current to be composed of **a steady, net movement of
 
 **i = dq/dt**. Units are **Amperes (A)**, or Coulombs/second (C/s).
 
-![](<../../.gitbook/assets/image (6) (1) (1).png>)
+![](<../../.gitbook/assets/image (6) (2).png>)
 
 Conventional current is the flow of _positive_ charge carriers, so the current direction points from the positive to the negative terminal (electrons would flow opposite).&#x20;
 
@@ -24,7 +24,7 @@ The current density is the amount of current passing through a cross-sectional a
 
 In a wire, the area vector and J would all point in the _same direction_ - however the current is flowing! Thus, if the current is uniform and parallel to the area vector, we can simplify the equation into i = JA or **J = i/A**.
 
-![closer streamlines = greater current density, since A is smaller.](<../../.gitbook/assets/image (17) (1) (1) (1).png>)
+![closer streamlines = greater current density, since A is smaller.](<../../.gitbook/assets/image (17) (1) (1) (1) (1).png>)
 
 ### Drift Speed Vd
 

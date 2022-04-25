@@ -1,8 +1,6 @@
----
-description: connecting...(the 3 pillars together)
----
-
 # ohm's law
+
+
 
 ## V = IR           V = IR          V = IR            V = IR
 

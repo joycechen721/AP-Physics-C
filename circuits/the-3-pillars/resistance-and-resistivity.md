@@ -20,6 +20,6 @@ The resistance is directly proportional to the resistivity (ϼ) and length of th
 
 Below are the resisitvities of some common materials:&#x20;
 
-![](<../../.gitbook/assets/image (20) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (20) (1) (1) (1) (1) (1).png>)
 
 ###

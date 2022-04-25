@@ -16,7 +16,7 @@ The strength of the magnetic field inside a solenoid is given by the equation ![
 
 Connecting back to Ampere's Law. The equation ![](<../../.gitbook/assets/image (10).png>) can be derived using this lovely law. Say we have a solenoid, and we wrap an Amperian loop around the top half of the solenoid (current is the same everywhere, so bottom/top doesn't matter).&#x20;
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17) (1).png>)
 
 Now, ![](<../../.gitbook/assets/image (18).png>) Aside the integration from a --> b, all the others are 0 because B and ds are either perpendicular or B = 0 at external points of the solenoid.&#x20;
 

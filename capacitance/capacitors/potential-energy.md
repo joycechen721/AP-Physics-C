@@ -6,11 +6,11 @@ We know that an electric field E is formed in a capacitor. That means work is do
 
 ![potential energy of capacitor.](<../../.gitbook/assets/image (4).png>)
 
-![another version of the same equation.](<../../.gitbook/assets/image (17) (1) (1) (1) (1) (1).png>)
+![another version of the same equation.](<../../.gitbook/assets/image (17) (1) (2).png>)
 
 **^^ THIS IS THE POTENTIAL ENERGY "U" STORED IN THE CAPACITOR - aka work needed to move charge from 1 plate to the other.**
 
 _Important Key Concepts_
 
-* __![](<../../.gitbook/assets/image (6) (1) (1) (1).png>)if 2 capacitors have **identical charges & area**, no matter the distance of separation, they would have the **same electric field**.
+* __![](<../../.gitbook/assets/image (6) (1) (1).png>)if 2 capacitors have **identical charges & area**, no matter the distance of separation, they would have the **same electric field**.
 * **Greater distance of separation, greater potential energy** (C = εA/d).

@@ -20,7 +20,7 @@ Does the charge (+/-) of the particle matter then?? **YESSS. YESS. YES.**  If th
 
 If anything moves in a perfect circle, that means a force is acting on it towards the center.&#x20;
 
-The same goes for charged particles moving in a magnetic field: ![](<../../.gitbook/assets/image (20) (1) (1) (1).png>)&#x20;
+The same goes for charged particles moving in a magnetic field: ![](<../../.gitbook/assets/image (20) (1) (1) (1) (1).png>)&#x20;
 
 The radius of the circle it creates is therefore: ![](<../../.gitbook/assets/image (21) (1) (1) (1) (1).png>)
 
