@@ -1,10 +1,6 @@
----
-description: >-
-  this little place will be a compilation of my nonexistent AP Physics C
-  knowledge! happy studying, habibis :D:D
----
-
 # welcome!
+
+this little place will be a compilation of my nonexistent AP Physics C knowledge! happy studying, habibis - joyce chen :D&#x20;
 
 ![me & u all happily studying ap physics :)](.gitbook/assets/776645.jpg)
 
