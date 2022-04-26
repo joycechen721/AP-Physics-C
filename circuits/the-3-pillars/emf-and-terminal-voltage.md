@@ -7,7 +7,7 @@
 * energy in device to produce this work comes from battery, fuel cells, solar cells, etc.
 * **ideal**: lacks internal resistance. **real**: potential difference < emf
 
-![](<../../.gitbook/assets/image (11) (1) (1) (1) (1).png>), definition of emf ε
+![](<../../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png>), definition of emf ε
 
 ![](<../../.gitbook/assets/image (7) (1) (1) (1) (1).png>), current in circuit assuming ideal battery with emf ε
 

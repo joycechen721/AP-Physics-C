@@ -2,7 +2,7 @@
 
 ## MCQ
 
-![](<../.gitbook/assets/image (11) (1).png>)
+![](<../.gitbook/assets/image (11) (1) (1).png>)
 
 Answer: **C**
 

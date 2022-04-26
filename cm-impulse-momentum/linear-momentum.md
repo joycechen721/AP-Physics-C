@@ -22,6 +22,6 @@ This law states that in a **closed & isolated system** with no net **external fo
 
 In other words, the system's **initial momentum** must **equal** the system's **final momentum**:
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (26) (1).png>)
 
 A mechanical system must be defined in order to determine which forces are internal/external. Internal forces are forces that are exchanged by objects **inside the mechanical system.** This often includes collisions amongst the objects. External forces are forces acting on the objects **outside the system.** Usually if we don't include Earth in the system, then gravity/normal force/friction may be considered external.

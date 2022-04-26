@@ -16,7 +16,7 @@ Objects must be travelling at some speed to collide with one another, meaning th
 
 ![conservation of K in elastic collisions](<../.gitbook/assets/image (12).png>)
 
-![final velocities of 2 objects in an elastic collision](<../.gitbook/assets/image (11).png>)
+![final velocities of 2 objects in an elastic collision](<../.gitbook/assets/image (11) (1).png>)
 
 ### Inelastic Collisions
 

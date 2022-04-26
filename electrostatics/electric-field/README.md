@@ -1,5 +1,6 @@
 # electric field
 
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them.
-{% endhint %}
+We know that charged particles exert forces on each other. But every charged particle (spherical-shaped) emits something called an **electric field**, regardless of whether there is a charge in the vicinity of the particle. It is this electric field&#x20;
+
+![equation for electric field](<../../.gitbook/assets/image (23).png>)
+
