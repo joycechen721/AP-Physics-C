@@ -12,3 +12,6 @@ Since object starts at rest, p(initial) = 0. Therefore, p(final) = Δp. To find 
 
 ![](<../.gitbook/assets/image (33).png>)
 
+**Answer:**
+
+![](../.gitbook/assets/IMG-6047.jpg)
