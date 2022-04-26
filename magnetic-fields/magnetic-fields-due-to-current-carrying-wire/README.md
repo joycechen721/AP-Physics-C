@@ -9,7 +9,7 @@ We saw that magnetic forces can affect current-carrying wires. **Newton's Third 
 
 **Magnetic field lines** are circular-shaped (like coils!) with their centers on the wire. Use right-hand rule for the field direction (very veryy similar to finding magnetic dipole moment of a coil of wires).
 
-![](<../../.gitbook/assets/image (26) (1).png>)         ![](<../../.gitbook/assets/image (18) (1).png>)
+![](<../../.gitbook/assets/image (26) (1) (1).png>)         ![](<../../.gitbook/assets/image (18) (1) (1).png>)
 
 ### Biot-Savert Law
 

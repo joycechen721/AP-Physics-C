@@ -12,7 +12,7 @@ When an electric **charge q** moves with **velocity v** through a **magnetic fie
 * if velocity and magnetic field are parallel, there is 0 magnetic force on the particle
 * because **force and velocity are never parallel**, the particle only **accelerates by direction** (speed remains the same, think centripetal motion).
 
-![proton will eventually follow a circle path!](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
+![proton will eventually follow a circle path!](<../../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
 
 Does the charge (+/-) of the particle matter then?? **YESSS. YESS. YES.**  If the particle is + charged, the force vector points in the direction of v x B. **If the particle is - charged, the force points opposite to the direction of v x B (hack: use left-hand instead of right-hand!).**&#x20;
 
@@ -44,5 +44,5 @@ In physics, we use the **right-hand rule** for cross products (sin). **Order mat
 
 In magnetism, velocity/current is the _a_ vector, the magnetic field is the _b_ vector, and the force is the _a x b_ vector.
 
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1).png>)
 

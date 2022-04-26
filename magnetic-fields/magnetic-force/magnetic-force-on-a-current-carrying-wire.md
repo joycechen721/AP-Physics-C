@@ -10,13 +10,13 @@ When a rectangular loop of wire carrying a current I is placed in a uniform magn
 
 ![](<../../.gitbook/assets/image (17) (1) (1).png>)           ![](<../../.gitbook/assets/image (31) (1).png>)
 
-The net torque is the sum of the torques acting on the two long sides of the wire: ![](<../../.gitbook/assets/image (25) (1).png>), where a = length of long side & b = length of short side.
+The net torque is the sum of the torques acting on the two long sides of the wire: ![](<../../.gitbook/assets/image (25) (1) (1).png>), where a = length of long side & b = length of short side.
 
 If we have multiple loops, the net torque would be the # of loops (N) \* torque calculated above. a\*b = A, the area of the rectangular loop:![](<../../.gitbook/assets/image (30) (1).png>)
 
 ### Magnetic Dipole Moment
 
-Because a current-carrying coil placed in a magnetic field experiences torque, it behaves like a bar magnet placed in the magnetic field. Thus, similarly, a current-carrying coil is said to be a **magnetic dipole** (has 2 poles). To account for this, we assign a **magnetic dipole moment** to the coil of magnitude ![](<../../.gitbook/assets/image (9) (1) (1).png>) where **N is the # of loops**, **i is the current** through the coil, and **A is the area of 1 loop**.
+Because a current-carrying coil placed in a magnetic field experiences torque, it behaves like a bar magnet placed in the magnetic field. Thus, similarly, a current-carrying coil is said to be a **magnetic dipole** (has 2 poles). To account for this, we assign a **magnetic dipole moment** to the coil of magnitude ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) where **N is the # of loops**, **i is the current** through the coil, and **A is the area of 1 loop**.
 
 * Units of µ: Joules per Tesla (J/T)
 * **Direction of µ?** Use **right-hand rule**: wrap hand in direction of coil current, and the thumb gives the direction of µ.
@@ -28,4 +28,4 @@ Because a current-carrying coil placed in a magnetic field experiences torque, i
 * **lowest energy:** dipole moment points in direction of magnetic field
 * **magnetic moment vector attempts to align with magnetic field**
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (27) (1).png>)

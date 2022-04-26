@@ -14,7 +14,7 @@ Conventional current is the flow of _positive_ charge carriers, so the current d
 
 Current is **scalar**, or they can be added algebraically. Any arrows just indicate the direction of current flow and do NOT signify a vector. In a circuit, current is **conserved** and can be split into different directions:
 
-![i0 = i1 + i2](<../../.gitbook/assets/image (10) (1) (1).png>)
+![i0 = i1 + i2](<../../.gitbook/assets/image (10) (1) (1) (1).png>)
 
 ### Current Density J
 
