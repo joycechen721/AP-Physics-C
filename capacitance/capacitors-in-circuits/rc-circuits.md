@@ -47,7 +47,7 @@ we set t = 0 back again, and we expect charge, current, and voltage to decrease 
 
 ![](../../.gitbook/assets/rc-rc5.gif)
 
-![](<../../.gitbook/assets/image (15) (1) (1).png>)
+![](<../../.gitbook/assets/image (15) (1) (1) (1).png>)
 
 * as e^-t/RC approaches 0, so does charge.
 

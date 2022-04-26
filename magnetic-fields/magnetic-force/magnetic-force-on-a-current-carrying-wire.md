@@ -2,7 +2,7 @@
 
 As discussed previously, magnetic fields exert forces on moving charges & currents. This force is transmitted to the **wire itself**, since the conduction electrons can't "escape" out of the wire due to the force! Again, the force on a current/wire is a **cross product** of the length of the wire (L) \* current (i) and the magnetic field (B).
 
-![](<../../.gitbook/assets/image (21) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (21) (1) (1) (1).png>) ![](<../../.gitbook/assets/image (12) (1) (1).png>)
 
 ### Torque on a Current Loop
 
@@ -22,7 +22,7 @@ Because a current-carrying coil placed in a magnetic field experiences torque, i
 * **Direction of µ?** Use **right-hand rule**: wrap hand in direction of coil current, and the thumb gives the direction of µ.
 * The torque equation above can be simplified into the cross product of the magnetic dipole moment and the magnetic field the coil is in! ![](<../../.gitbook/assets/image (8) (1) (1).png>)
 
-**Energy of Magnetic Dipole** = dot product (cos) of dipole moment & B vector **** ![](<../../.gitbook/assets/image (13).png>)****
+**Energy of Magnetic Dipole** = dot product (cos) of dipole moment & B vector **** ![](<../../.gitbook/assets/image (13) (1).png>)****
 
 * **highest energy:** dipole moment points opposite of the magnetic field
 * **lowest energy:** dipole moment points in direction of magnetic field

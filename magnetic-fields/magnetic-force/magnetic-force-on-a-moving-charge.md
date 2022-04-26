@@ -24,7 +24,7 @@ The same goes for charged particles moving in a magnetic field: ![](<../../.gitb
 
 The radius of the circle it creates is therefore: ![](<../../.gitbook/assets/image (21) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (15) (1).png>)![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (15) (1) (1).png>)![](<../../.gitbook/assets/image (5).png>)
 
 ### Crossed Electric & Magnetic Fields
 
